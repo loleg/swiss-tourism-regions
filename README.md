@@ -14,6 +14,8 @@ document.location.href = "http://geojson.io/#data=data:application/json," + enco
 
 And finally exported from GeoJSON.io - then tweaked and re-exported using QGIS, adding back the numeric cantonal identifiers as seen in the PDF.
 
+*Disclaimer:* It's not super precise. More like a guesstimate, due to all the steps involved. Having a proper export, or at least some help aligning the borders, would be warmly welcomed.
+
 ## License
 
 This package is licensed by its maintainers under the Public Domain Dedication
