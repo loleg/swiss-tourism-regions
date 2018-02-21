@@ -12,7 +12,7 @@ var geoJson = svgtogeojson.svgToGeoJson([
 document.location.href = "http://geojson.io/#data=data:application/json," + encodeURIComponent(JSON.stringify(geoJson));
 ```
 
-And finally exported from GeoJSON.io and tweaked and re-exported using QGIS.
+And finally exported from GeoJSON.io - then tweaked and re-exported using QGIS, adding back the numeric cantonal identifiers as seen in the PDF.
 
 ## License
 
